@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on NLP tasks<br>I'm currently learning on Deep Learning and CV<br>NSU, BSc Physics department 21'<br>Skoltech, Data Science 24'<br>
+I'm currently working on Deep Learning
 
 
 # 💻 Tech Stack:
