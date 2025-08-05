@@ -9,7 +9,6 @@ AI researcher with a focus on **AI Safety**, adversarial robustness for computer
 ### 📚 Publications
 For a complete list, please visit:
 - [Google Scholar](https://scholar.google.com/citations?user=p7uGbVoAAAAJ&hl=ru)
-- [Semantic Scholar](https://www.semanticscholar.org/)
 
 ### 📫 Reach Me
 - LinkedIn: [Nikolay Kalmykov](https://www.linkedin.com/in/nikolay-kalmykov-472404258/)
