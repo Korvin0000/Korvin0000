@@ -13,3 +13,7 @@ For a complete list, please visit:
 ### 📫 Reach Me
 - LinkedIn: [Nikolay Kalmykov](https://www.linkedin.com/in/nikolay-kalmykov-472404258/)
 - Email: nickcalmykow281@gmail.com
+
+<p align="right">
+  <img src="https://media.tenor.com/M_M_VWHm94AAAAAi/confused-confused-panda.gif" alt="panda gif" width="200"/>
+</p>
