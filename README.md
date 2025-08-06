@@ -13,18 +13,3 @@ For a complete list, please visit:
 ### 📫 Reach Me
 - LinkedIn: [Nikolay Kalmykov](https://www.linkedin.com/in/nikolay-kalmykov-472404258/)
 - Email: nickcalmykow281@gmail.com
-
-<table width="100%">
-  <tr>
-    <!-- 80% ширины пустая ячейка — чем больше %, тем левее картинка -->
-    <td width="80%"></td>
-    <!-- в этой ячейке и будет картинка -->
-    <td>
-      <img
-        src="https://media.tenor.com/M_M_VWHm94AAAAAi/confused-confused-panda.gif"
-        alt="confused panda"
-        width="200"
-      />
-    </td>
-  </tr>
-</table>
