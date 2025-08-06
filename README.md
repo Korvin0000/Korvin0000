@@ -14,6 +14,10 @@ For a complete list, please visit:
 - LinkedIn: [Nikolay Kalmykov](https://www.linkedin.com/in/nikolay-kalmykov-472404258/)
 - Email: nickcalmykow281@gmail.com
 
+<!-- Вставьте этот блок там, где нужно поднять картинку -->
 <p align="right">
-  <img src="https://media.tenor.com/M_M_VWHm94AAAAAi/confused-confused-panda.gif" alt="panda gif" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- больше пробелов — сильнее сдвиг -->
+  <img src="https://media.tenor.com/M_M_VWHm94AAAAAi/confused-confused-panda.gif"
+       alt="panda gif"
+       width="200"/>
 </p>
