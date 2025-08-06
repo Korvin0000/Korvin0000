@@ -14,10 +14,17 @@ For a complete list, please visit:
 - LinkedIn: [Nikolay Kalmykov](https://www.linkedin.com/in/nikolay-kalmykov-472404258/)
 - Email: nickcalmykow281@gmail.com
 
-<!-- Вставьте этот блок там, где нужно поднять картинку -->
-<p align="right">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- больше пробелов — сильнее сдвиг -->
-  <img src="https://media.tenor.com/M_M_VWHm94AAAAAi/confused-confused-panda.gif"
-       alt="panda gif"
-       width="200"/>
-</p>
+<table width="100%">
+  <tr>
+    <!-- 80% ширины пустая ячейка — чем больше %, тем левее картинка -->
+    <td width="80%"></td>
+    <!-- в этой ячейке и будет картинка -->
+    <td>
+      <img
+        src="https://media.tenor.com/M_M_VWHm94AAAAAi/confused-confused-panda.gif"
+        alt="confused panda"
+        width="200"
+      />
+    </td>
+  </tr>
+</table>
